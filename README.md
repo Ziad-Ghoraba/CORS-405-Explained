@@ -68,7 +68,9 @@ fetch("https://localhost:7076", {
 
 ---
 
+
 **Tip:** CORS requires the backend to explicitly allow your frontend’s origin, methods, and headers — otherwise the browser blocks the request.
+
 ---
 
 Let me know if you want me to add anything else!
